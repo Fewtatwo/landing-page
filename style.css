@@ -24,7 +24,7 @@ ul {
     list-style: none;
     display: flex;
     padding-left: 0;
-    gap: 8px;
+    gap: 16px;
     margin: 0;
 }
 
